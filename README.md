@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sachinsaji2
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python
+- I'm also interested in Full Stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
